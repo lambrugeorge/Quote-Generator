@@ -14,7 +14,7 @@ Quote Generator is a simple application that brings you a daily dose of inspirat
 
 ## Demo
 
-See the application in action [here](link_to_demo).
+See the application in action [here](https://lambrugeorge.github.io/Quote-Generator/).
 
 ## Screenshots
 
@@ -23,7 +23,7 @@ See the application in action [here](link_to_demo).
 
 ## How to Use
 
-1. Access the [Quote Generator app](link_to_app).
+1. Access the [Quote Generator app](https://lambrugeorge.github.io/Quote-Generator/).
 2. Click the "Generate Quotes" button.
 3. Enjoy your daily quote! 🌟
 
